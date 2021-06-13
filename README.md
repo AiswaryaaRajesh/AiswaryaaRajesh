@@ -2,7 +2,7 @@
 - 👀 I’m interested in ...Data Analysis
 - 🌱 I’m currently learning ...C++
 - 💞️ I’m looking to collaborate on ...C++ Projects
-- 📫 How to reach me ... aiswaryaa.rajesh@gmail.com
+- 📫 How to reach me ... 
 
 <!---
 AiswaryaaRajesh/AiswaryaaRajesh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
