@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AiswaryaaRajesh
-- 👀 I’m interested in ...Data Analysis
+- 👀 I’m interested in ...Web Development
 - 🌱 I’m currently learning ...C++
 - 💞️ I’m looking to collaborate on ...C++ Projects
 - 📫 How to reach me ... 
