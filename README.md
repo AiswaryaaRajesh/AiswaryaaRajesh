@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @AiswaryaaRajesh
 - 👀 I’m interested in ...Web Development
-- 🌱 I’m currently learning ...C++
-- 💞️ I’m looking to collaborate on ...C++ Projects
-- 📫 How to reach me ... 
+- 🌱 I’m currently learning ...Front End Development
+- 💞️ I’m looking to collaborate on ...Front-End Projects
+- 📫 How to reach me ... aiswaryaa.rajesh@gmail.com
 
 <!---
 AiswaryaaRajesh/AiswaryaaRajesh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
