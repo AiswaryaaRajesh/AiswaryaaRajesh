@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AiswaryaaRajesh
-- 👀 I’m interested in ...Web Development
-- 🌱 I’m currently learning ...Front End Development
-- 💞️ I’m looking to collaborate on ...Front-End Projects
+- 👀 I’m interested in ...Data Analysis and Front End Development
+- 🌱 I’m currently learning ...Data Analysis
+- 💞️ I’m looking to collaborate on ...Data Analysis and Front End Development
 - 📫 How to reach me ... aiswaryaa.rajesh@gmail.com
 
 <!---
